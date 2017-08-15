@@ -46,6 +46,7 @@ Collaborative filtering (CF) algorithm is the most prominent approach to generat
 2. A top-N list of recommended items.
 
 **Method**
+
 There are two types of collaborative filtering.
 1. User-based
 2. Item-based
@@ -59,8 +60,12 @@ Any other specification of the implementation and testing
 - `self test result`
 
 u1 RSME: 0.9094779
+
 u2 RSME: 0.8995277
+
 u3 RSME: 0.8900281
+
 u4 RSME: 0.8941476
+
 u5 RSME: 0.8968278
 
